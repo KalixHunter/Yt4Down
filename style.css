@@ -1,0 +1,83 @@
+body {
+	background-color: #252424;
+	margin-top:0px;
+	margin: 0px;
+	padding: 0px;
+	font-family: "DejaVu Sans"
+}
+.logo {
+	color: #686868;
+	font-size:30px;
+	top: 15px;
+	left:50px;
+	position: absolute;
+}
+.logo a {
+
+	color: #686868;
+	text-decoration: none;
+}
+.github {
+	position: absolute;
+    text-decoration: none;
+    border: 10px solid #7d7d7d;
+    border-radius: 42px;
+    background-color: #252424;
+    right: 241px;
+    padding: 17px;
+    color: #686868;
+    font-size: 20px;
+    top: 15px;
+    padding-right: 40px;
+    padding-left: 40px;
+}
+
+.fb {
+	position: absolute;
+	text-decoration: none;
+	border: 10px solid #7d7d7d;
+	border-radius: 42px;
+	background-color: #252424;
+	right: 32px;	
+	color: #686868;
+	font-size: 20px;
+	top: 15px;
+	padding: 17px;
+	padding-right: 40px;
+	padding-left: 40px;
+}
+p {
+	color: #686868;
+	text-align: center;
+	position: relative;
+	top: 200px;
+	font-size: 20px;
+}
+.input-link {
+	width: 295px;
+	height: 50px;
+	font-size: 15px;
+	color: black;
+	position: relative;
+	left: 640px;
+	top: 300px;
+	border: 3px solid #414040;
+	border-radius: 10px;
+
+}
+.the-best {
+	position: relative;
+	top: 400px;
+}
+.foo-div {
+	width: 100%;
+	background-color: #1B2631;
+	position: relative;
+	top: 500px;
+	height: 300px;
+	font-weight: bold;
+}
+.foo-p {
+	top: 140px;
+	position: relative;
+}
